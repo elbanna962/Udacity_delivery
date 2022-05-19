@@ -122,7 +122,7 @@ public class DesignPreview extends JFrame implements ActionListener {
         leftbuttonpanel.add(deletenewinvoice);
         lefttablepanel.add(leftbuttonpanel, BorderLayout.CENTER);
         add(lefttablepanel, BorderLayout.WEST);
-righttexfieldspanel.setLayout(new BorderLayout());
+            righttexfieldspanel.setLayout(new BorderLayout());
         rightpanle.setLayout(new BorderLayout());
         textfeild1panel.setLayout(new FlowLayout());
         textfeild1panel.add(invoicelefttabledata);
